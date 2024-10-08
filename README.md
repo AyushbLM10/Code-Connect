@@ -1,6 +1,6 @@
-# Code Nexus
+# Code Connect
 
-Code Nexus is an advanced code editor application designed to facilitate real-time code editing, collaboration, and project management. Built with a modern tech stack, it offers robust features for code editing, real-time syntax highlighting, and secure user authentication.
+Code Connect is an advanced code editor application designed to facilitate real-time code editing, collaboration, and project management. Built with a modern tech stack, it offers robust features for code editing, real-time syntax highlighting, and secure user authentication.
 
 ## Features
 
@@ -93,4 +93,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any questions or support, please reach out to [kumud.bhatt444@gmail.com](mailto:kumud.bhatt444@gmail.com).
+For any questions or support, please reach out to [ayushbhattab65@gmail.com](mailto:ayushbhattab65@gmail.com).
